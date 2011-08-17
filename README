@@ -1,0 +1,4 @@
+This is just a sample on how to calculate lightning in a 2d game.
+I'm sorry it isn't properly commentated, but I hope it will do
+
+The only library object I use is the "rock" symbol in the background. You can comment that out.
